@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "UuqKqzhCc1mUz1-RHiKe_",
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "$2b$10$WlInciObfSoA5nMC.ASOw.MDo6OUy4xfzHD9qzOvvHJXjoUNAIbNO",
+      "createdAt": 1762321987536
+    },
+    {
+      "id": "7jvCddCFkY3dxNUEYtGFb",
+      "name": "vicky",
+      "email": "vicky@gmail.com",
+      "password": "$2b$10$wT8H471sAiG/4IP0o6AWgOaNDDcnGjtyXLHA.9dmyFK9LligXFwmS",
+      "createdAt": 1762322689052
+    }
+  ],
+  "events": [
+    {
+      "id": "90ieLDuVcxLeRB7K0omyl",
+      "title": "vicky",
+      "startTime": "12",
+      "endTime": "2",
+      "status": "BUSY",
+      "ownerId": "UuqKqzhCc1mUz1-RHiKe_",
+      "createdAt": 1762322012828,
+      "updatedAt": 1762322078575
+    },
+    {
+      "id": "BwjXSvD_TZxXgoXcE0y1S",
+      "title": "vicky",
+      "startTime": "12",
+      "endTime": "2",
+      "status": "SWAPPABLE",
+      "ownerId": "7jvCddCFkY3dxNUEYtGFb",
+      "createdAt": 1762323189475,
+      "updatedAt": 1762323430167
+    },
+    {
+      "id": "fdKqRNZkRNTM9zdHkPBn5",
+      "title": "niveshh",
+      "startTime": "12",
+      "endTime": "2",
+      "status": "SWAPPABLE",
+      "ownerId": "7jvCddCFkY3dxNUEYtGFb",
+      "createdAt": 1762323292333,
+      "updatedAt": 1762323428782
+    }
+  ],
+  "swaps": []
+}
